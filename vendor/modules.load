@@ -2,6 +2,7 @@ goodix_tee.ko
 radio-i2c-rtc6226-qca.ko
 qti_battery_charger_main.ko
 leds-qti-flash.ko
+camera.ko
 pinctrl_wcd_dlkm.ko
 pinctrl_lpi_dlkm.ko
 swr_dlkm.ko
@@ -35,4 +36,3 @@ swr_haptics_dlkm.ko
 us_prox_iio.ko
 platform_dlkm.ko
 machine_dlkm.ko
-camera.ko
