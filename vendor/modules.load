@@ -1,3 +1,4 @@
+g_webcam.ko
 goodix_tee.ko
 radio-i2c-rtc6226-qca.ko
 qti_battery_charger_main.ko
